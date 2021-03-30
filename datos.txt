@@ -1,0 +1,6 @@
+joe castillo;callao;abril
+rosa mejia;lima;diciembre
+renata flores;la victoria;enero
+carlos ramirez;callo;abril
+tania alva;lima;mayo
+davne yalle;comas;junio	

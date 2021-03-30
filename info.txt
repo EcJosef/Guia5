@@ -1,0 +1,10 @@
+Datos Registrados
+-----------------
+Nombre y apellido...: Josef Caballero
+Genero..............: Masculino
+Estado..............: Menor de edad
+Datos Registrados
+-----------------
+Nombre y apellido...: Josef Caballero
+Genero..............: Femenino
+Estado..............: Mayor de edad
